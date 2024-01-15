@@ -1,8 +1,6 @@
-ELEC-A7100 Basic course in C programming
-Aalto University
-Viivi Uhari
+# Simple Student Database
 
-This project is for creating and handling a simple student database.
+This project has been created as a part of a course at Aalto University and it is for creating and handling a simple student database.
 The database has the student number, firstname, lastname,
 points for 6 different rounds and the total points of these 6 rounds for each student.
 
